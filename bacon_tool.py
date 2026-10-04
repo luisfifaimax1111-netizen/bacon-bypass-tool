@@ -3,7 +3,7 @@ import sys
 import json
 
 # --- CẤU HÌNH ---
-API_KEY = "YOUR_API_KEY_HERE"      # Thay bằng API key của bạn
+API_KEY = "Bacon-f4ff0e1de0a9a1e6461f-51474074a48cbebc96f4"      # Thay bằng API key của bạn
 API_ENDPOINT = "API_ENDPOINT_HERE"  # Thay bằng endpoint thực tế
 
 def bypass_link(locked_url):
