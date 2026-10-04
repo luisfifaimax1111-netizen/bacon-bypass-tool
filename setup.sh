@@ -10,7 +10,7 @@ yes | pkg install python -y
 pip install requests rich
 
 echo "⏳ Đang tải tool Bacon Bypass..."
-curl -Ls "https://raw.githubusercontent.com/TEN_GITHUB_CUA_BAN/bacon-bypass-tool/main/bacon_tool.py" -o $HOME/bacon_tool.py
+curl -Ls "https://raw.githubusercontent.com/luisfifaimax1111-netizen/bacon-bypass-tool/main/bacon_tool.py" -o $HOME/bacon_tool.py
 
 echo "✅ Cài đặt hoàn tất!"
 echo "👉 Chạy tool bằng lệnh: python ~/bacon_tool.py <link>"
